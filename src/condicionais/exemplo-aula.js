@@ -9,10 +9,8 @@
 let passagemEsgotada = false;
 let passagem = 10.00;
 
-if (passagem <= 10.00) {
+if (passagem <= 10.00 && !passagemEsgotada) {
     console.log('Vamos ao Arraiá');
-} else if (passagemEsgotada == true) {
-    console.log('Nao vamos ao Arraiá pois a passagem esgotou');
 } else {
     console.log('Nao vamos ao Arraiá pois a passagem esta muito cara');
 }
