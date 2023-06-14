@@ -1,4 +1,3 @@
-
 # Exercício 🌟
 
 ## Comanda
