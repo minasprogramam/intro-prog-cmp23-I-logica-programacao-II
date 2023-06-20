@@ -16,10 +16,10 @@
 // * **ACESSO NEGADO** caso a pessoa não possa brincar
 // * **10 reais** caso esse seja o valor que a pessoa deve pagar para brincar
 // * **20 reais** caso esse seja o valor que a pessoa deve pagar para brincar
-let idade = 11
-let altura = 500
+let idade = 19
+let altura = 1.59
 let patologia = false
-let estudante = false
+let estudante = true
 if(idade > 65 || idade < 12 || altura < 150 || patologia == true){
     console.log(`acesso negado, aaaaaaaaaaaaaaaaaaaaaaaa`)
 } 
