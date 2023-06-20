@@ -6,7 +6,7 @@
 // const jogada2 = 3;
 
 let jogador1bom = 5
-let jogador2ruim = 6
+let jogador2ruim = 3
 let soma = (jogador1bom + jogador2ruim)
 if (soma % 2 == 0 ){
     console.log(`par`)
