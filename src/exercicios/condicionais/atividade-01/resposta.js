@@ -17,7 +17,7 @@ let valorPassagem = 10;
 
 switch(true) {
     case (valorPassagem < 10):
-        console.log(`economia ta top, bora viajar!!!`)
+        console.log(`economia ta top, bora viajar!!!!!!`)
         break;
     case (valorPassagem > 10):
         console.log(`ta caro, nao vamos viajar`)
